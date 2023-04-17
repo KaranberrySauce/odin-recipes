@@ -1,0 +1,20 @@
+
+/*universal selector*/
+*{ 
+    color: purple;
+}
+
+/*type selector*/
+h1{
+    color: red;
+}
+
+/*class selector*/
+.class1{
+    color: blue;
+}
+
+/*id selector*/
+#id1{
+    color: green;
+}
